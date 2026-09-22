@@ -32,6 +32,7 @@ Android-focused engineer specializing in high-performance mobile applications, c
 - 💬 Telegram — [@dirion_dc](https://t.me/dirion_dc)
 - 💼 LinkedIn — [chernenko-dmitry](https://www.linkedin.com/in/chernenko-dmitry/)
 - ✉️ Email — [dmitry.chernenko.official@gmail.com](mailto:dmitry.chernenko.official@gmail.com)
+- 🧩 App-Kit — [app-kit.dev](https://app-kit.dev)
 
 ---
 
